@@ -1,39 +1,51 @@
-# Onboarding
+----
+Title: Onboarding
+Author: Neil Ernst
+Date: 2018-06-20
+----
 
-OH MY GOODNESS! You're here! You're really here!
+This is your jumping off point to get you up and running with your work in collaboration with Dr. Ernst.
 
-How cool is that?! :sparkles: :balloon: :cake:
+# Your first day
 
-![](https://media.giphy.com/media/wAVA7WdV2jita/giphy.gif)
+* Read the [research ethics](ethics.md) guidelines. Chat with Neil if you have any questions about lab norms or would like to add or change anything in the code of conduct. 
+* Join the [slack channel](https://octera.slack.com) by asking [Neil](neil@neilernst.net) to send you an invite.
 
-This is your jumping off point to get you up and running with your work in (or collaboration with) the Whitaker Lab.
+## Tools
+In my work I use the following. I prefer if you do as well. If you want to use Word, for instance, please have a good reason (usually, some funding agency only accepts Word).
 
-(It's currently a work in progress...I really hope you can shape and improve this onboarding experience as you learn!)
+* Github
+* Git
+* Python & Scipy/Pandas & PyStan
+* R (less often) 
+* Excel! Spreadsheets are great for data exploration.
+* Slack
 
-## Why onboarding
+### Latex
+* Sharelatex/Authorea - sometimes, more often plain Latex over Git.
+* SublimeText for Mac and the Latextools Plugin
 
-You're a person! (So am I!) We're social creatures (to varying degrees.) The traditional first day practice of giving new lab members a pile of papers and say "go read these and understand them" is rather isolating. It's difficult to read scientific papers in a field you don't know, and possibly isn't the best use of your first few days and weeks.
+## Compute Canada and WestGrid
 
-In this repository we're going to work through some tutorials, blogging exercises, reproducing some figures from papers and....so much more :wink:.
+## Courses and Skillsets
+MSc. Students need to take 5 courses and the Research Skills course (595). A few recommendations:
+- my Documentation course
+- Data Mining
+- ML theory
+- Info Viz
+- CSCW
 
-## Your first day
+And others as you (and I) see fit. 
 
-* Read the Whitaker Lab [code of conduct](https://github.com/WhitakerLab/Onboarding/blob/master/CODE_OF_CONDUCT.md). Chat with Kirstie if you have any questions about lab norms or would like to add or change anything in the code of conduct. 
-* Join the Alan Turing [slack channel](https://alan-turing-institute.slack.com) by asking [Charlotte](reception@turing.ac.uk) to send you an invite.
-* Set up the weekly meetings file by following the guidelines in the [Setting-up-your-weekly-meetings.md](https://github.com/WhitakerLab/Onboarding/blob/master/Setting-up-your-weekly-meetings.md) file.
+## Being a good researcher/student
 
-## Blogging exercises
+I have two resources here. The first is [all the links on Michael Ernst's page](https://homes.cs.washington.edu/~mernst/advice/). These are all well worth reading. If you are not a strong writer, you should definitely pay attention to the advice on writing. But part of my job is to help you with that (modulo some basic ability). 
 
-One of the most useful ways for me (Kirstie) to follow along with your progress is to read blog post summaries of what you've been working on. It's also a great way to share our work with others!
-
-1. [Meet 3 people at the Turing Institute](https://github.com/WhitakerLab/Onboarding/blob/master/BLOGGING_EXERCISES/01-MeetThreePeople.md)
-2. ??
-3. ??
-4. [Goal setting]()
-
-
-## Keep pushing
-
-The only mandatory reading for this onboarding is [Matt Might's](http://matt.might.net/) [Illustrated Guide to a PhD](http://matt.might.net/articles/phd-school-in-pictures/). It's a beautiful description of the frustration and wonder of conducting reasearch. Don't forget, whenever things are hard, ***keep pushing***.
+The other mandatory reading for this onboarding is [Matt Might's](http://matt.might.net/) [Illustrated Guide to a PhD](http://matt.might.net/articles/phd-school-in-pictures/). It's a beautiful description of the frustration and wonder of conducting research. 
 
 ![](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.012.jpg)
+
+
+## Related reading
+1. Uvic Graduate student handbook
+2. University new student page
