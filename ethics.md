@@ -1,5 +1,5 @@
 ----
-Title: Ethical Research 
+Title: Ethical and Responsible Research 
 ----
 
 As researchers we seek truth and knowledge through a curiosity-driven approach. Other goals along the way include getting recognition for these pursuits, acquiring funding, getting degrees, learning new skills, and having fun!.
@@ -21,7 +21,7 @@ Here I am referring to our obligation to behave responsibly as researchers. This
 Again, the [university](https://www.uvic.ca/research/conduct/home/policies/index.php) has a policy [governing our conduct as researchers](https://www.uvic.ca/universitysecretary/assets/docs/policies/AC1105_1160_B.pdf), as do venues we submit to, and professional societies like the ACM, have policies in place which govern our actions in a legal sense. Please read these! 
 
 # Code of conduct
-Acting badly is not acceptable, and will not be tolerated. The Faculty of Engineering has overarching policies which [govern our behaviour](https://www.uvic.ca/engineering/assets/docs/professional-behaviour.pdf), but I don't think it is that hard. Get consent for your actions, treat others professionally, and don't be a dick. Sadly, some people seem to have a hard time doing this. If this happens to you, please let me know. There is no reason to feel like coming to work is unpleasant or dangerous.
+Acting badly is not acceptable, and will not be tolerated. The Faculty of Engineering has overarching policies which [govern our behaviour](https://www.uvic.ca/engineering/assets/docs/professional-behaviour.pdf), as does [the University](https://www.uvic.ca/universitysecretary/assets/docs/policies/GV0205_1150_.pdf). Discrimination, harassment, and bullying are unacceptable.  Sadly, some people seem to have a hard time understanding this. If this happens to you, please let me know. There is no reason to feel like coming to work is unpleasant or dangerous.
 
 # Mental health
 You cannot conduct good research if you are not physically and mentally healthy. Working hard does not need to come at the expense of your health. I expect a solid working week of at least 35 hours (work hours, not Facebook or Twitter use). This is surprisingly hard to achieve, but should give plenty of time to both be very successful as a graduate student, as well as having a well-balanced life. You don't get vacation as a grad student (at least I don't think so) but you also don't have regular hours. If you intend to go away for more than a few days, please let me know. 
