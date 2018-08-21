@@ -42,6 +42,12 @@ MSc. Students need to take 5 courses and the Research Skills course (595). A few
 
 And others as you (and I) see fit. There is a breadth requirement as well but I have no idea how that works yet, to be honest. Check with the graduate handbook. I think these courses should cover the breadth. 
 
+### Useful online courses
+* https://www.coursera.org/learn/statistical-inferences
+* https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
+* https://www.coursera.org/learn/machine-learning
+* https://xcelab.net/rm/statistical-rethinking/
+
 ## Being a good researcher/student
 
 I have a few resources here (there are tons). The first is [all the links on Michael Ernst's page](https://homes.cs.washington.edu/~mernst/advice/). These are all well worth reading. If you are not a strong writer, you should definitely pay attention to the advice on writing. But part of my job is to help you with that (modulo some basic ability). 
