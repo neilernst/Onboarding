@@ -30,6 +30,7 @@ In my work I use the following. I prefer if you do as well. If you want to use W
 
 ## Compute Canada and WestGrid
 forthcoming 
+* [Uvic Jupyter server](https://uvic.syzygy.ca)
 
 ## Courses and Skillsets
 MSc. Students need to take 5 courses and the Research Skills course (595). A few recommendations:
