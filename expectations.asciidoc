@@ -1,15 +1,15 @@
-= Neil's group expectations
+= Neil's student expectations
 Neil Ernst neil@neilernst.net
+v1.0, 2018-08-28
+:toc: right
 
-(a lot of this is cribbed from the CHISEL version)
+(a lot of this is thanks to the CHISEL guide and experiences)
 
 The following are some guidelines for students and staff working with me. Each research group and research supervisor has a different philosophy, and I want to lay out what you can expect in terms of expectations and culture. These are guidelines rather than rules, so we can vary them to suit different needs, but I do ask that you discuss any variations with me so that we come to some arrangement that suits us both.
 
 You may have heard professors are busy. As my student or collaborator you can expect to be pretty close to the top of the job queue (below family, below the CRA, but above paper reviews and spam). A wise woman once told me that if I didn't get an answer the first time, to send the email a second time in case she missed it. You might want to try that.
 
-TOC
-
-== Asking Me For Feedback
+== Getting feedback
 When you need me to read or do things for you -- papers, proposals, reference letters whatever -- please ask in advance so that it gets in my schedule  -- try to allow 2 weeks and sometimes possibly longer if I have travel. This doesn't apply to everything, especially when some of you are working on a short turn around on papers and thesis chapters/proposals that I already know about and so will have scheduled time for -- if in doubt, check!
 
 Make what you need obvious. Send me a short explanation of what changed in the 10 pages, etc.
@@ -81,7 +81,6 @@ I will also be asking you all to help with other tasks throughout your time in t
 A lot of the above comes down to communication and setting expectations. Make sure to communicate with me and your peers; set clear expectations and try not to leave people guessing.
 
 == Your feedback on this
-If you uncomfortable with any of the above, please let me know! And if at any time you feel you are not getting enough time from me or are otherwise unhappy, talk to me about it.
+If you are uncomfortable with any of the above, please let me know! And if at any time you feel you are not getting enough time from me or are otherwise unhappy, talk to me about it.
 
 Thanks for reading!
-
