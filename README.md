@@ -60,6 +60,5 @@ The mandatory reading for this onboarding is [Matt Might's](http://matt.might.ne
 I have a copy of "Getting What You Came For" in my office.
 
 ## Other expectations 
-* attend defences and dry runs for students in the group
-* attend relevant and barely relevant colloquia.  
+* see [my expectations](https://github.com/neilernst/Onboarding/blob/master/expectations.asciidoc)
 * tackle some of [these readings](readings.md)
