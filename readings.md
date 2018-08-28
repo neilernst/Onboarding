@@ -32,4 +32,4 @@ These are some seminal papers/books that inform my research directions. I sugges
 - J. E. McGrath. Methodology matters: Doing research in the behavioral and social sciences. In Readings in Human-Computer Interaction: Toward the Year 2000 2nd ed, pages 152–169, 1995.
 
 # Random
-
+I also like the general tone and gentle mockery of ["Letter to An Aspiring Intellectual"](letter.pdf). 
