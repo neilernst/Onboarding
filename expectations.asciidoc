@@ -1,0 +1,87 @@
+= Neil's group expectations
+Neil Ernst neil@neilernst.net
+
+(a lot of this is cribbed from the CHISEL version)
+
+The following are some guidelines for students and staff working with me. Each research group and research supervisor has a different philosophy, and I want to lay out what you can expect in terms of expectations and culture. These are guidelines rather than rules, so we can vary them to suit different needs, but I do ask that you discuss any variations with me so that we come to some arrangement that suits us both.
+
+You may have heard professors are busy. As my student or collaborator you can expect to be pretty close to the top of the job queue (below family, below the CRA, but above paper reviews and spam). A wise woman once told me that if I didn't get an answer the first time, to send the email a second time in case she missed it. You might want to try that.
+
+TOC
+
+== Asking Me For Feedback
+When you need me to read or do things for you -- papers, proposals, reference letters whatever -- please ask in advance so that it gets in my schedule  -- try to allow 2 weeks and sometimes possibly longer if I have travel. This doesn't apply to everything, especially when some of you are working on a short turn around on papers and thesis chapters/proposals that I already know about and so will have scheduled time for -- if in doubt, check!
+
+Make what you need obvious. Send me a short explanation of what changed in the 10 pages, etc.
+
+== Paper participation
+Writing and publishing papers is an essential part of any academic's life. I expect and encourage all of you to write papers during the course of your degree or time in my group. However, we need to plan when to write such papers and to choose the best venues for them. When you decide on a specific paper to write, please let me know in advance so that I can plan to participate in them. If you are writing papers on work that I fund, or on work that I am spending time to supervise, I do expect the opportunity to participate as an author. When I am an author, I like to not just contribute intellectually to the ideas, but also to help with writing -- so try to give me enough notice so that I can plan it and I will let you know my expected level of input. However, if you write papers on topics outside your funded or supervised research area (and outside regular working hours) then just let me know as I do not expect to be an author. If in doubt, you should ask me and let me know if you work on other research outside our group.
+
+Note: I can only pay for students going to conferences that are related to one of my funded projects/grants/conferences -- and these need to be planned for many months or even a year in advance so it is in my budget. Canadian research budgets are notoriously underprovisioned for travel (maybe we shouldn't travel so much...) so a trip to Italy, China, etc. is a significant cost I need to plan for.
+
+As a guideline of what is expected, masters students should publish 1-2 conference papers (or perhaps 1 conference, 2 workshops papers) during their two years in the group; phd students should aim for 3 conference (with at least one of these expanding to a journal) and perhaps some workshop papers earlier in their career); postdoc should be participating on several papers a year (and leading at least 1-2 papers).
+
+In terms of authorship on the paper, this is always somewhat tricky. It is best to define that early on and to be clear about it. I’ve seen some unfortunate conflicts over the years because this was not well defined. My approach is to have more rather than fewer authors (if in doubt add them). Author order should be based on input to the research and/or writing, not on seniority. I don’t believe however to stack people’s resumes by putting lots of authors on every paper for that reason alone! But if you collaborate and help out, your resume will benefit!
+
+== Meetings
+I prefer to set meetings as-needed. Feel free to message me on Slack or email if you want an impromptu meeting. However, co-supervised students or students working outside my funded research will have fewer meetings. In general students working on the specific research objectives that I have to meet will tend to have more meetings, as their work overlaps more closely my research interests (but not because I favour some students more than others!). New students working primarily on courses will meet less frequently until research starts. In busy teaching terms for me, we may have smaller group meetings to use time more efficiently.
+
+== Meeting guidelines
+When we meet, please come fully prepared so that we can get down to work quickly. If you need me to read something in advance, let me know well in advance so I can set time aside for reading. (I can read quickly so 1-2 pages should usually be ok... but anything longer I should schedule). If we really don't need to meet, please let me know and we can rebook for the following week (sometimes other things get in the way of planned work, I know that fully too well!).
+
+For group meetings, we tend to have a great atmosphere where everyone gives feedback in a positive manner. I feel it is important in such small meetings to be fully present and not to be checking email or multi-tasking.
+
+== Weekly updates
+Each week, you should check in by email or on our Slack.
+
+- a summary of the work you did in the past week (note: vague statements such as “I worked on my literature review” don’t help me understand your progress, so add sufficient detail please). If you are taking courses or TAing, I don’t need those details however! If you had a bad week, be honest! If I see many of these, then I can step in and help. You can also send me drafts of chapters or papers to show what you have done (but I will only read them if I am worried about progress or you have asked for feedback).
+- a summary of the proposed work for the following week
+
+These updates really help me know where things are at. I often have to “nag” students for these -- please please please don’t make me do this as I get grumpy when I have to nag! Add this to your calendar so that you don’t forget! Co-supervised guys: please send me this too... you can also send it to your co-supervisor if you like.
+
+== Working hours
+I generally try to advocate 9-5 Monday to Friday (with an hour for lunch) because this is a healthier way to work. I’ve noticed over the years that some students feel they are never “off” if they allow themselves to start late (or to start slowly) with no clear end of the day, or days off in mind.
+
+I also prefer if you all work at the lab, so that you can collaborate and support each other. If you like to work sometimes at home or at the library, let me know and we can discuss this. A quick email is usually all that is needed. If you find your office mates are distracting you, tell me, we can juggle things around. Likewise, be cautious that you are not distracting others or getting distracted yourself. A good time to chat is of course over coffee/beer/lunch! I often work at my home office because of the many more distractions I get at UVic -- so this is a case of do as I say, not as I do! That being said, I do try to be flexible when there are specific requests to vary this!
+
+Note: Please email me or Slack regarding all time away from the office. (Also inform your collaborators out of courtesy.)
+
+You are entitled to vacation, unless you are part-time or co-op staff, in which case you may be paid extra in lieu of vacation as per the BC labour regulations. UVic (and NSERC) suggests three weeks off a year. I also shut down the lab on Christmas Eve and between Christmas and New Year (these days do not count as part of your three weeks). You should tell me about planned vacations well in advance, and add them to the calendar. Also, remind me of vacations approximately one week before you leave. You should keep track of the days you have taken for vacation.
+
+== Time Management
+I don't have a lot to add here, other than it is important to do. Keep in mind time management is about different horizons: this hour, this day, this week, and the next few years. In academia it is VERY easy to feel like there is never downtime.
+
+== Funding, time in the program etc.
+The funding you receive is variable and depends on the funds available for the project you are on as well as on your ongoing progress. Please ask me if you have any concerns about the funding you receive. Note that the project funding we receive has to pay for many things such as printing, equipment in the lab, research assistants, food expenses for group meetings, etc.
+
+== Term length
+In terms of length of your program, we should be clear about that up front. Generally it is 18-24 months for a masters; 3-4 years for a PhD, and other positions are defined when you are hired. Of course there are exceptions!
+
+== Travel guidelines
+One of the perks we have as academics is travel (although it comes with its own drawbacks!). We have limited money for travel, you can help as follows:
+
+- Apply for UVic travel grants as soon as you know your paper will be accepted (note for workshop or short papers, I may not be able to fund you, so check before assuming you can go).
+- Book your flights early and look for cheap flights. Use the cheapest airline and option (e.g. Tango with Air Canada). Check with me about any restrictions for your project/grant.
+- Try to share hotel rooms for expensive conferences, or look for cheaper hotels and AirBNB that are close by (but don’t stay in unsafe neighbourhoods).
+- Apply to be a student volunteer at a conference and get free registration.
+- Use public transportation or shuttles instead of expensive taxis, or share taxis. Obviously there are exceptions here (such as late at night or very awkward destinations).
+- UVic allows per diems, but if you can find cheaper options for food that is still nutritious please submit the lower amount. In fancy hotels, look around for cheaper breakfast options. However, sometimes there are none, I know!
+- Avail of the free food at the conferences, check if there is breakfast and other meals provided. If there are meals provided, I won’t be able to reimburse you. Yes you can go to the banquet for the conference if one is offered (networking at banquets is important :) ). Some conferences don’t
+include the banquet with student rates, so add it!
+- In general keep costs low in a reasonable way as it adds up quickly as a group! If you do this, I can send more of you to more conferences! If in doubt though, ask!
+
+**Note: Do not assume that your travel can be funded—please ask me before committing to anything!**
+
+== Group support
+Please jump in and help the group as a whole! Make sure you come to designfests and other talks by visiting colleagues. This is very important for our group culture and also for your education. If you need to miss something though, just ask!
+
+I will also be asking you all to help with other tasks throughout your time in the group. For example, help with reviewing a few papers a year; helping to organize workshops/conferences, help in writing grant proposals, and so on. In return, hopefully you will gain some useful training!
+
+== Communication
+A lot of the above comes down to communication and setting expectations. Make sure to communicate with me and your peers; set clear expectations and try not to leave people guessing.
+
+== Your feedback on this
+If you uncomfortable with any of the above, please let me know! And if at any time you feel you are not getting enough time from me or are otherwise unhappy, talk to me about it.
+
+Thanks for reading!
+
